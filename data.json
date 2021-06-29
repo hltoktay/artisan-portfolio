@@ -3,60 +3,34 @@
         {
             "id": 0,
             "title": "Pillow Cover 1",
-            "details": "50x50cm - Handwoven Wool - Pillow Cover",
+            "details": "50x50cm - Handwoven Wool Kilim - Pillow Cover",
             "price": "140.00",
             "image": "img_6",
-            "owner": "Handwoven Wool - 50x50cm"
+            "owner": "Handwoven Wool Kilim - 50x50cm"
         },
         {
-             "id": 1,
+            "id": 1,
             "title": "Pillow Cover 2",
-            "details": "40x40cm - Handwoven Wool - Pillow Cover",
+            "details": "40x40cm - Handwoven Wool Kilim - Pillow Cover",
             "price": "120.00",
             "image": "img_3",
-            "owner": "Handwoven Wool - 40x40cm"
+            "owner": "Handwoven Wool Kilim - 40x40cm"
         },
         {
-             "id": 2,
+            "id": 2,
             "title": "Pillow Cover 3",
-            "details": "30x50cm - Handwoven Wool - Pillow Cover",
+            "details": "30x50cm - Handwoven Wool Kilim - Pillow Cover",
             "price": "110.00",
             "image": "img_2",
-            "owner": "Handwoven Wool - 30x50cm"
+            "owner": "Handwoven Wool Kilim - 30x50cm"
         },
         {
-             "id": 3,
-            "title": "Pillow Cover",
-            "details": "50x50cm - HandWoven Wool - Pillow Cover",
+            "id": 3,
+            "title": "Pillow Cover 4",
+            "details": "50x50cm - Handwoven Wool Kilim - Pillow Cover",
             "price": "140.00",
             "image": "img_7",
-            "owner": "HandWoven Wool - 50x50cm"
-        },
-        {
-             "id": 5,
-            "title": "Pillow Cover",
-            "details": "40x40cm - Handwoven Wool - Pillow Cover",
-            "price": "120.00",
-            "image": "img_4",
-            "owner": "Handwoven Wool - 40x40cm"
-        },
-        {
-             "id": 6,
-            "title": "Platonic Solids",
-            "details": "28x28cm - Metal Embroidery on printed silk",
-            "price": "800.00",
-            "image": "img_10",
-             "sub_image": "img_20",
-            "owner": "28x28cm - Metal Embroidery"
-        },
-        {
-             "id": 7,
-            "title": "Fireworks 1",
-            "details": "80x80cm - Metal Embroidery on printed silk",
-            "price": "1,400.00",
-            "image": "img_12",
-             "sub_image": "img_11",
-            "owner": "Metal Embroidery 80x80cm"
+            "owner": "HandWoven Wool Kilim - 50x50cm"
         },
         {
             "id": 4,
@@ -64,56 +38,91 @@
             "details": "160x230cm - Handwoven Wool - Christmas Kilim",
             "price": "2,600.00",
             "image": "img_9",
-           "sub_image": "img_8",
+            "sub_image": "img_8",
             "owner": "Handwoven Wool - 60x230cm"
         },
         {
-             "id": 8,
+            "id": 5,
+            "title": "Pillow Cover 5",
+            "details": "40x40cm - Handwoven Wool Kilim - Pillow Cover",
+            "price": "120.00",
+            "image": "img_4",
+            "owner": "Handwoven Wool Kilim - 40x40cm"
+        },
+        {
+            "id": 6,
+            "title": "Dodecahedron",
+            "details": "28x28cm - Metal Embroidery on printed silk",
+            "price": "450.00",
+            "image": "img_10",
+            "sub_image": "img_20",
+            "owner": "28x28cm - Metal Embroidery"
+        },
+        {
+            "id": 7,
+            "title": "Fireworks 1",
+            "details": "80x80cm - Metal Embroidery on printed silk",
+            "price": "1,400.00",
+            "image": "img_12",
+            "sub_image": "img_11",
+            "owner": "Metal Embroidery 80x80cm"
+        },
+        {
+            "id": 8,
             "title": "Fireworks 2",
             "details": "60x60cm - Metal Embroidery on printed silk",
             "price": "750.00",
             "image": "img_14",
-             "sub_image": "img_13",
+            "sub_image": "img_13",
             "owner": "Metal Embroidery - 60x60cm"
         },
         {
-             "id": 9,
-            "title": "Fireworks 2",
+            "id": 9,
+            "title": "Fireworks 3",
             "details": "80x80cm - Metal Embroidery on printed silk",
             "price": "700.00",
             "image": "img_16",
-             "sub_image": "img_15",
+            "sub_image": "img_15",
             "owner": "Metal Embroidery - 80x80cm"
         },
         {
-             "id": 10,
+            "id": 10,
             "title": "Hexahedron",
             "details": "28x28cm - Metal Embroidery on printed silk",
-            "price": "800.00",
+            "price": "450.00",
             "image": "img_17",
-             "sub_image": "img_21",
+            "sub_image": "img_21",
             "owner": "Metal Embroidery - 28x28cm"
         },
         {
-             "id": 11,
-            "title": "Metal Embroidery",
+            "id": 11,
+            "title": "Icosahedron",
             "details": "28x28cm - Metal Embroidery on printed silk",
-            "price": "800.00",
+            "price": "450.00",
             "image": "img_18",
-             "sub_image": "img_22",
+            "sub_image": "img_22",
             "owner": "Metal Embroidery - 28x28cm"
         },
         {
-             "id": 13,
-            "title": "Metal Embroidery",
+            "id": 12,
+            "title": "Octahedron",
             "details": "28x28cm - Metal Embroidery on printed silk",
-            "price": "800.00",
-            "image": "img_39",
-             "sub_image": "img_24",
+            "price": "450.00",
+            "image": "img_19",
+            "sub_image": "img_23",
             "owner": "Metal Embroidery - 28x28cm"
         },
         {
-             "id": 14,
+            "id": 13,
+            "title": "Tetrahedron",
+            "details": "28x28cm - Metal Embroidery on printed silk",
+            "price": "450.00",
+            "image": "img_39",
+            "sub_image": "img_24",
+            "owner": "Metal Embroidery - 28x28cm"
+        },
+        {
+            "id": 14,
             "title": "Christmas 1",
             "details": "28x28cm - Metal Embroidery on Printed Silk ",
             "price": "330.00",
@@ -121,7 +130,7 @@
             "owner": "Metal Embroidery - 28x28cm"
         },
         {
-             "id": 15,
+            "id": 15,
             "title": "Christmas 2",
             "details": "22x22cm - Metal Embroidery on Printed Silk",
             "price": "250.00",
@@ -129,114 +138,97 @@
             "owner": "Metal Embroidery - 22x22cm"
         },
         {
-             "id": 16,
+            "id": 16,
             "title": "Christmas 3",
             "details": "22x22cm - Metal Embroidery on Printed Silk",
             "price": "250.00",
             "image": "img_27",
-             "sub_image": "img_27",
+            "sub_image": "img_27",
             "owner": "Metal Embroidery - 22x22cm"
         },
         {
-             "id": 17,
+            "id": 17,
             "title": "Christmas 4",
             "details": "31x31cm - Metal Embroidery on Printed Silk",
             "price": "400.00",
             "image": "img_30",
-             "sub_image": "img_30",
-            "owner": "Metal Embroider - 31x31cm"
+            "sub_image": "img_30",
+            "owner": "Metal Embroidery - 31x31cm"
         },
         {
-             "id": 24,
-            "title": "Siktir Kilim",
-            "details": "82x375cm Handwoven Wool - Siktir Kilim ",
-            "price": "1,650.00",
-            "image": "img_38",
-            "owner": "Handwoven Wool - 82x375cm"
-        },
-        {
-             "id": 18,
+            "id": 18,
             "title": "Christmas 5",
             "details": "31x31cm - Metal Embroidery on Printed Silk",
             "price": "400.00",
             "image": "img_34",
-            "owner": "Metal Embroider - 31x31cm"
+            "owner": "Metal Embroidery - 31x31cm"
         },
         {
-             "id": 19,
-            "title": "Christmas Rug",
+            "id": 19,
+            "title": "Christmas 6",
             "details": "28x28cm - Metal Embroidery on Printed Silk",
             "price": "330.00",
             "image": "img_32",
-             "sub_image": "img_32",
-            "owner": "Metal Embroider - 28x28cm"
+            "sub_image": "img_32",
+            "owner": "Metal Embroidery - 28x28cm"
         },
         {
-             "id": 20,
+            "id": 20,
             "title": "Runner Eye Kilim",
             "details": "80x570cm - Handwoven Wool - Runner Eye Kilim ",
             "price": "2,150.00",
             "image": "img_35",
-             "sub_image": "img_36",
+            "sub_image": "img_36",
             "owner": "Handwoven Wool - 80x570cm"
         },
         {
-             "id": 21,
+            "id": 21,
             "title": "Siktir Kilim",
             "details": "82x375cm Handwoven Wool - Siktir Kilim ",
             "price": "1,650.00",
             "image": "img_37",
-             "sub_image": "img_38",
+            "sub_image": "img_38",
             "owner": "Handwoven Wool - 82x375cm"
         },
         {
-             "id": 22,
-            "title": "Christmas 6",
+            "id": 22,
+            "title": "Christmas 7",
             "details": "22x22cm - Metal Embroidery on Printed Silk",
             "price": "250.00",
             "image": "img_29",
-            "owner": "Metal Embroider - 22x22cm"
+            "owner": "Metal Embroidery - 22x22cm"
         },
         {
-             "id": 23,
-            "title": "Pillow Cover",
-            "details": "40x40cm - Handwoven Wool - Pillow Cover",
+            "id": 23,
+            "title": "Pillow Cover 6",
+            "details": "40x40cm - Handwoven Wool Kilim - Pillow Cover",
             "price": "120.00",
             "image": "img_5",
-            "owner": "Handwoven Wool - 40x40cm"
+            "owner": "Handwoven Wool Kilim - 40x40cm"
         },
         {
-             "id": 27,
-            "title": "Christmas Rug",
-            "details": "31x31cm - Metal Embroidery on Printed Silk",
-            "price": "400.00",
-            "image": "img_31",
-            "owner": "31x31cm - Metal Embroidery"
+            "id": 24,
+            "title": "Pillow Cover 7",
+            "details": "30x50cm - Handwoven Wool Kilim - Pillow Cover",
+            "price": "110.00",
+            "image": "img_1",
+            "owner": "Handwoven Wool Kilim - 30x50cm"
         },
         {
             "id": 25,
-            "title": "Pillow Cover",
-            "details": "30x50cm - Handwoven Wool - Pillow Cover",
-            "price": "110.00",
-            "image": "img_1",
-            "owner": "Handwoven Wool - 30x50cm"
-        },
-        {
-             "id": 26,
-            "title": "Christmas Rug",
+            "title": "Christmas 8",
             "details": "28x28cm - Metal Embroidery on Printed Silk",
-            "price": "400.00",
+            "price": "330.00",
             "image": "img_25",
             "owner": "Metal Embroidery - 28x28cm"
         },
         {
-             "id": 12,
-            "title": "Metal Embroidery",
-            "details": "28x28cm - Metal Embroidery on printed silk",
-            "price": "800.00",
-            "image": "img_19",
-             "sub_image": "img_23",
-            "owner": "Metal Embroidery - 28x28cm"
+            "id": 26,
+            "title": "Christmas 9",
+            "details": "31x31cm - Metal Embroidery on Printed Silk",
+            "price": "400.00",
+            "image": "img_31",
+            "owner": "Metal Embroidery - 31x31cm - "
         }
     ]
 }
