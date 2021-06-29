@@ -104,15 +104,6 @@
             "owner": "Metal Embroidery - 28x28cm"
         },
         {
-             "id": 12,
-            "title": "Metal Embroidery",
-            "details": "28x28cm - Metal Embroidery on printed silk",
-            "price": "800.00",
-            "image": "img_19",
-             "sub_image": "img_23",
-            "owner": "Metal Embroidery - 28x28cm"
-        },
-        {
              "id": 13,
             "title": "Metal Embroidery",
             "details": "28x28cm - Metal Embroidery on printed silk",
@@ -236,6 +227,15 @@
             "details": "28x28cm - Metal Embroidery on Printed Silk",
             "price": "400.00",
             "image": "img_25",
+            "owner": "Metal Embroidery - 28x28cm"
+        },
+        {
+             "id": 12,
+            "title": "Metal Embroidery",
+            "details": "28x28cm - Metal Embroidery on printed silk",
+            "price": "800.00",
+            "image": "img_19",
+             "sub_image": "img_23",
             "owner": "Metal Embroidery - 28x28cm"
         }
     ]
