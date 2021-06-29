@@ -33,15 +33,6 @@
             "owner": "HandWoven Wool - 50x50cm"
         },
         {
-            "id": 4,
-            "title": "Christmas Kilim",
-            "details": "160x230cm - Handwoven Wool - Christmas Kilim",
-            "price": "2,600.00",
-            "image": "img_9",
-           "sub_image": "img_8",
-            "owner": "Handwoven Wool - 60x230cm"
-        },
-        {
              "id": 5,
             "title": "Pillow Cover",
             "details": "40x40cm - Handwoven Wool - Pillow Cover",
@@ -66,6 +57,15 @@
             "image": "img_12",
              "sub_image": "img_11",
             "owner": "Metal Embroidery 80x80cm"
+        },
+        {
+            "id": 4,
+            "title": "Christmas Kilim",
+            "details": "160x230cm - Handwoven Wool - Christmas Kilim",
+            "price": "2,600.00",
+            "image": "img_9",
+           "sub_image": "img_8",
+            "owner": "Handwoven Wool - 60x230cm"
         },
         {
              "id": 8,
@@ -156,6 +156,14 @@
             "owner": "Metal Embroider - 31x31cm"
         },
         {
+             "id": 24,
+            "title": "Siktir Kilim",
+            "details": "82x375cm Handwoven Wool - Siktir Kilim ",
+            "price": "1,650.00",
+            "image": "img_38",
+            "owner": "Handwoven Wool - 82x375cm"
+        },
+        {
              "id": 18,
             "title": "Christmas 5",
             "details": "31x31cm - Metal Embroidery on Printed Silk",
@@ -207,14 +215,6 @@
             "owner": "Handwoven Wool - 40x40cm"
         },
         {
-             "id": 24,
-            "title": "Siktir Kilim",
-            "details": "82x375cm Handwoven Wool - Siktir Kilim ",
-            "price": "1,650.00",
-            "image": "img_38",
-            "owner": "Handwoven Wool - 82x375cm"
-        },
-        {
              "id": 27,
             "title": "Christmas Rug",
             "details": "31x31cm - Metal Embroidery on Printed Silk",
@@ -234,7 +234,7 @@
              "id": 26,
             "title": "Christmas Rug",
             "details": "28x28cm - Metal Embroidery on Printed Silk",
-            "price": "1,850.00",
+            "price": "400.00",
             "image": "img_25",
             "owner": "Metal Embroidery - 28x28cm"
         }
