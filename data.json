@@ -35,11 +35,11 @@
         {
             "id": 4,
             "title": "Christmas Kilim",
-            "details": "160x230cm - Handwoven Wool - Christmas Kilim",
+            "details": "230x160cm - Handwoven Wool - Christmas Kilim",
             "price": "2,600.00",
             "image": "img_9",
             "sub_image": "img_8",
-            "owner": "Handwoven Wool - 60x230cm"
+            "owner": "Handwoven Wool - 230x160cm"
         },
         {
             "id": 5,
@@ -229,6 +229,14 @@
             "price": "400.00",
             "image": "img_31",
             "owner": "Metal Embroidery - 31x31cm - "
+        },
+        {
+            "id": 27,
+            "title": "Christmas 10",
+            "details": "28x28cm - Metal Embroidery on Printed Silk",
+            "price": "250.00",
+            "image": "img_40",
+            "owner": "Metal Embroidery - 28x28cm - "
         }
     ]
 }
